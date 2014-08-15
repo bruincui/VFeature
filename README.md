@@ -13,7 +13,7 @@ The visual features include:
 
 These features are adopted in the NUS-WIDE dataset and widely used in many other papers.
  
-References:
+References:  
 [1] NUS-WIDE: A Real-World Web Image Database from National University of Singapore
 
 Created by Chaoran Cui (bruincui@gmail.com)
