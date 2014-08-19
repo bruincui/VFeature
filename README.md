@@ -16,6 +16,6 @@ These features are adopted in the NUS-WIDE dataset and widely used in many other
 References:  
 [1] NUS-WIDE: A Real-World Web Image Database from National University of Singapore
 
-Created by Chaoran Cui (bruincui@gmail.com)
-homepage: http://ir.sdu.edu.cn/~chaorancui/
+Created by Chaoran Cui (bruincui@gmail.com)  
+homepage: http://ir.sdu.edu.cn/~chaorancui/  
 If there are any problems, please let me know.
