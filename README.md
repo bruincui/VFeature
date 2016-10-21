@@ -17,5 +17,5 @@ References:
 [1] NUS-WIDE: A Real-World Web Image Database from National University of Singapore
 
 Created by Chaoran Cui (bruincui@gmail.com)  
-homepage: http://ir.sdu.edu.cn/~chaorancui/  
+homepage: http://crcui.sdufe.edu.cn/  
 If there are any problems, please let me know.
